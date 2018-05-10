@@ -1,0 +1,13 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/nzimmerman/git_repos/cogtile/project/plugins.scala:1:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0maddSbtPlugin("com.eed3si9n" % "sbt-assembly" % "0.14.6")[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nzimmerman/git_repos/cogtile/project/plugins.scala:2:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0maddSbtPlugin("com.timushev.sbt" % "sbt-updates" % "0.3.4")[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nzimmerman/git_repos/cogtile/project/plugins.scala:3:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0maddSbtPlugin("de.heikoseeberger" % "sbt-header" % "4.1.0")[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nzimmerman/git_repos/cogtile/project/plugins.scala:4:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0maddSbtPlugin("org.scalastyle" %% "scalastyle-sbt-plugin" % "1.0.0")[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m

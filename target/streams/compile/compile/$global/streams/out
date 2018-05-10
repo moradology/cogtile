@@ -1,0 +1,28 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/nzimmerman/git_repos/cogtile/src/main/scala/com/azavea/cogtile/CogView.scala:3:13: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport cats._[0m
+[0m[[0m[33mwarn[0m] [0m[0m            ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/nzimmerman/git_repos/cogtile/src/main/scala/com/azavea/cogtile/CogView.scala:4:23: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport cats.implicits._[0m
+[0m[[0m[33mwarn[0m] [0m[0m                      ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/nzimmerman/git_repos/cogtile/src/main/scala/com/azavea/cogtile/CogView.scala:7:31: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport geotrellis.raster.crop._[0m
+[0m[[0m[33mwarn[0m] [0m[0m                              ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/nzimmerman/git_repos/cogtile/src/main/scala/com/azavea/cogtile/CogView.scala:8:36: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport geotrellis.raster.histogram._[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                   ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/nzimmerman/git_repos/cogtile/src/main/scala/com/azavea/cogtile/CogView.scala:17:44: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport geotrellis.raster.io.geotiff.writer.GeoTiffWriter[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                           ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/nzimmerman/git_repos/cogtile/src/main/scala/com/azavea/cogtile/CogView.scala:19:36: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport geotrellis.spark.io.s3.util.S3RangeReader[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                   ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/nzimmerman/git_repos/cogtile/src/main/scala/com/azavea/cogtile/CogView.scala:22:19: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport scala.util.Properties[0m
+[0m[[0m[33mwarn[0m] [0m[0m                  ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/nzimmerman/git_repos/cogtile/src/main/scala/com/azavea/cogtile/CogView.scala:23:14: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport scala.math[0m
+[0m[[0m[33mwarn[0m] [0m[0m             ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/nzimmerman/git_repos/cogtile/src/main/scala/com/azavea/cogtile/CogView.scala:25:16: Unused import[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport java.io.File[0m
+[0m[[0m[33mwarn[0m] [0m[0m               ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m9 warnings found[0m
